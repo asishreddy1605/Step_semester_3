@@ -46,7 +46,4 @@ elif your_choose==2 and computer_choose==1:
 elif your_choose==1 and computer_choose==2:
     print("You loose")
 elif your_choose== computer_choose:
-    print("Draw")
-
-
-    
+    print("Draw")    
